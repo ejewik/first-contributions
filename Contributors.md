@@ -3,6 +3,7 @@
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
+- [Emily Jewik] (https://github.com/ejewik)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Malcome Baggett](https://github.com/MalcomeBaggett)
